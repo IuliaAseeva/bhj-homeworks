@@ -1,3 +1,4 @@
+
 .tab__navigation {
   display: flex;
   justify-content: space-around;
@@ -21,4 +22,3 @@
 .tab__content_active {
   display: block;
 }
-
